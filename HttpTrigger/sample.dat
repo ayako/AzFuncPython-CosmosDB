@@ -1,0 +1,4 @@
+{
+    "database": "YOUR_COSMOS_DATABASE",
+    "container": "YOUR_COSMOS_CONTAINER"
+}
